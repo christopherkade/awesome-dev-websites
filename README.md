@@ -1,6 +1,6 @@
 # Awesome Developer Websites
 
-Lots of developers have beautiful websites that serve as their hub of information, where they share their resume, projects, blog posts and passion. This is a list of websites that are beautiful in their own way - be it design, originality or effectiveness.
+A list of developer's personal websites that are interesting in their own way: design, originality, craziness or simply effectiveness.
 
 
 - [Brent Jackson](http://jxnblk.com/)
