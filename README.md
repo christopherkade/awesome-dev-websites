@@ -21,3 +21,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Zeno Rocha](https://zenorocha.com/)
 - [Sittiphol Phanvilai](https://nuuneoi.com/profile)
 - [Adam Hartwig](http://www.adamhartwig.co.uk/)
+- [Timothée Roussilhe](http://timroussilhe.com/)
