@@ -24,3 +24,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Timothée Roussilhe](http://timroussilhe.com/)
 - [Alexander Kallaway](http://kallaway.io/)
 - [Daniel Strong](http://danielstrong.io/)
+- [Sam Craig](https://samcraig.io/)
