@@ -18,3 +18,8 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Sindre Sorhus](https://sindresorhus.com/) ![Sindre Sorhus](https://i.imgur.com/HNPDvRj.png)
 - [Una Kravets](https://una.im/) ![Una Kravets](https://i.imgur.com/rjrhD4R.png)
 - [Zeno Rocha](https://zenorocha.com/) ![Zeno Rocha](https://i.imgur.com/FFtpglG.png)
+- [Sittiphol Phanvilai](https://nuuneoi.com/profile) ![Sittiphol Phanvilai](https://i.imgur.com/bk1c1Yc.png)
+- [Adam Hartwig](http://www.adamhartwig.co.uk/) ![Sittiphol Phanvilai](https://i.imgur.com/v0mC17n.png)
+- [Timothée Roussilhe](http://timroussilhe.com/) ![Sittiphol Phanvilai](https://i.imgur.com/9Ckh5wN.png)
+- [Daniel Strong](http://danielstrong.io/) ![Sittiphol Phanvilai](https://i.imgur.com/XhNZKMO.png)
+- [Sam Craig](https://samcraig.io/) ![Sittiphol Phanvilai](https://i.imgur.com/0X3Ne8B.png)
