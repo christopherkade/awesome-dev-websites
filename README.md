@@ -26,3 +26,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Daniel Strong](http://danielstrong.io/)
 - [Sam Craig](https://samcraig.io/)
 - [Javis V. Pérez](http://www.javisperez.com/)
+- [Nivaldo Martinez](https://nivaldomartinez.com/)
