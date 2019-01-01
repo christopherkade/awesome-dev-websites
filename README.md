@@ -23,3 +23,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Timothée Roussilhe](http://timroussilhe.com/) ![Sittiphol Phanvilai](https://i.imgur.com/9Ckh5wN.png)
 - [Daniel Strong](http://danielstrong.io/) ![Sittiphol Phanvilai](https://i.imgur.com/XhNZKMO.png)
 - [Sam Craig](https://samcraig.io/) ![Sittiphol Phanvilai](https://i.imgur.com/0X3Ne8B.png)
+- [Andy Patrick Design](http://www.andypatrickdesign.com/) ![Andy Patrick Design](https://i.imgur.com/Qdd9eae.jpg)
