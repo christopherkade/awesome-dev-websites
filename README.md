@@ -2,7 +2,8 @@
 
 A list of developer's personal websites that are interesting in their own way: design, originality, craziness or simply effectiveness.
 
-- [Brent Jackson](http://jxnblk.com/) ![Brent Jackson](https://i.imgur.com/3HFTKqv.png)
+- [Sam Craig](https://samcraig.io/) ![Sittiphol Phanvilai](https://i.imgur.com/0X3Ne8B.png)
+- [Andy Patrick Design](http://www.andypatrickdesign.com/) ![Andy Patrick Design](https://i.imgur.com/Qdd9eae.jpg)
 - [CJ Gammon](http://www.cjgammon.com/) ![CJ Gammon](https://i.imgur.com/FjYHk9e.png)
 - [Daniel X Moore](https://whimsy.space/) ![Daniel X Moore](https://i.imgur.com/Wgu476o.png)
 - [David Dias](https://thedaviddias.me/) ![David Dias](https://i.imgur.com/GJlSFUB.png)
@@ -22,5 +23,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Adam Hartwig](http://www.adamhartwig.co.uk/) ![Sittiphol Phanvilai](https://i.imgur.com/v0mC17n.png)
 - [Timothée Roussilhe](http://timroussilhe.com/) ![Sittiphol Phanvilai](https://i.imgur.com/9Ckh5wN.png)
 - [Daniel Strong](http://danielstrong.io/) ![Sittiphol Phanvilai](https://i.imgur.com/XhNZKMO.png)
-- [Sam Craig](https://samcraig.io/) ![Sittiphol Phanvilai](https://i.imgur.com/0X3Ne8B.png)
-- [Andy Patrick Design](http://www.andypatrickdesign.com/) ![Andy Patrick Design](https://i.imgur.com/Qdd9eae.jpg)
+- [Brent Jackson](http://jxnblk.com/) ![Brent Jackson](https://i.imgur.com/3HFTKqv.png)
