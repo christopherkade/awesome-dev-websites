@@ -3,14 +3,9 @@
 A list of developer's personal websites that are interesting in their own way: design, originality, craziness or simply effectiveness.
 
 
-- [Brent Jackson](http://jxnblk.com/)
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Daniel X Moore](https://whimsy.space/)
-- [David Dias](https://thedaviddias.me/)
-- [Eduardo San Martin Morote](https://posva.net/)
-- [Evan You](http://evanyou.me/)
 - [Hakim El Hattab](https://hakim.se/)
-- [Houssein Djirdeh](https://houssein.me/)
 - [Jeremy Thomas](https://jgthms.com/)
 - [Jessica Lord](http://jlord.us/)
 - [Kenji Saito](http://kenji-special.info/)
@@ -25,6 +20,5 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Alexander Kallaway](http://ka11away.com/)
 - [Daniel Strong](http://danielstrong.io/)
 - [Sam Craig](https://samcraig.io/)
-- [Javis V. Pérez](http://www.javisperez.com/)
 - [Nivaldo Martinez](https://nivaldomartinez.com/)
 - [Adam Greenough](https://adgr.dev/)
