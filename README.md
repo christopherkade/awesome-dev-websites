@@ -22,3 +22,4 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Sam Craig](https://samcraig.io/)
 - [Nivaldo Martinez](https://nivaldomartinez.com/)
 - [Adam Greenough](https://adgr.dev/)
+- [Saransh Kataria](https://www.wisdomgeek.com/)
