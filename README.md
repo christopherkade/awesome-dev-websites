@@ -24,4 +24,3 @@ A list of developer's personal websites that are interesting in their own way: d
 - [Timothée Roussilhe](http://timroussilhe.com/) ![Sittiphol Phanvilai](https://i.imgur.com/9Ckh5wN.png)
 - [Daniel Strong](http://danielstrong.io/) ![Sittiphol Phanvilai](https://i.imgur.com/XhNZKMO.png)
 - [Brent Jackson](http://jxnblk.com/) ![Brent Jackson](https://i.imgur.com/3HFTKqv.png)
-- [Sean Halpin](http://seanhalpin.io/) ![Sean Halpin](https://imgur.com/Tz6OPK8)
