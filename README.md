@@ -3,6 +3,7 @@
 A list of developer's personal websites that are interesting in their own way: design, originality, craziness or simply effectiveness.
 
 
+- [Puneesh Gogia](https://aether-ion.netlify.app/)
 - [CJ Gammon](http://www.cjgammon.com/)
 - [Daniel X Moore](https://whimsy.space/)
 - [Hakim El Hattab](https://hakim.se/)
