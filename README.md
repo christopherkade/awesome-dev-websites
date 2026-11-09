@@ -1,4 +1,5 @@
 # Awesome Developer Websites
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Creator of macOS corner companions Tape and Needle.
 
 A list of developer's personal websites that are interesting in their own way: design, originality, craziness or simply effectiveness.
 
